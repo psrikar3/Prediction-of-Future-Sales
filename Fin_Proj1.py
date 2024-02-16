@@ -1,16 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Problem
-
-# ##### Dataset Description
-# You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.
-
-# # Importing all the required modules 
-# 
-
-# In[1]:
-
 
 import numpy as np 
 import pandas as pd 
